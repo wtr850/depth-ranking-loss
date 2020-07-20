@@ -1,7 +1,7 @@
 # Depth from a single image
 
 ディレクトリ構成は以下の通りです/
-
+<pre>
 ├── test_imgs
 
 │   ├── ....jpg
@@ -18,9 +18,13 @@
         ├── ....png
         ├── ....png
         
+ </pre>
   root/
+  
 　├ bin/
+ 
 　├ etc/
+ 
 　├ usr/
 　│　└ local/
 　│　　　└ bin/
