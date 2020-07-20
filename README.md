@@ -1,5 +1,7 @@
 # Depth from a single image
 
+[Monocular Relative Depth Perception with Web Stereo Data Supervision](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Monocular_Relative_Depth_CVPR_2018_paper.pdf)
+
 ### 要件
 - python 3.7
 - numpy
@@ -24,7 +26,7 @@
         ├── ....png      
  </pre>
 
- - test_imgs: テスト用画像です。それなりに画質の高い画像を1０枚以上入れておいてください。
+ - test_imgs: テスト用画像です。それなりに画質の高いRGB画像をjpegで1０枚以上入れておいてください。
  - redweb: ReDWebの画像をここに入れます。imgsに元画像、rdsに正解の深度画像を入れてください。
 
 ### 実行
