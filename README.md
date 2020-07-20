@@ -1,5 +1,12 @@
 # Depth from a single image
 
+- python 3.7
+- numpy
+- pandas
+- matplotlib
+- torch 
+- torchvision
+
 ディレクトリ構成は以下の通りです/
 <pre>
 ├── test_imgs
